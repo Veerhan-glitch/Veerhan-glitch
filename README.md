@@ -1,8 +1,6 @@
 <h1 align="center">Hey There!👋, I'm Praveer Singh Chauhan</h1>
 <h3 align="center">A student and passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veerhan-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="veerhan-glitch" /> </p>
-
 - 🌱 I’m currently learning **Python (main) and all the other below languages and staff**
 
 - ⚡ Fun fact **Fortran (1950s) is the oldest commercial programming language**
