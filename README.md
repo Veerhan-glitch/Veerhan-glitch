@@ -92,6 +92,3 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=veerhan-glitch&show_icons=true&locale=en&layout=compact" alt="veerhan-glitch" /></p>
-
-
-P.S. credit to <a href="https://github.com/rahuldkjain">@rahuldkjain</a> github rposatory <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub Profile Readme Generator </a>
