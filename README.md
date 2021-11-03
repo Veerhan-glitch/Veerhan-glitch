@@ -1,5 +1,5 @@
 <h1 align="center">Hey There!👋</h1>
-<h3 align="center">A student and passionate backend developer from India</h3>
+<h3 align="center">I'm a student and passionate backend developer from India</h3>
 
 - 🌱 I’m currently learning **Python (mainly) and all the other below languages and staff**
 
