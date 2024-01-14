@@ -1,7 +1,7 @@
 <h1 align="center">Hey There!👋</h1>
 <h3 align="center">I'm a student and passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **Python (mainly) and all the other below languages and staff**
+- 🌱 I’m currently learning **Python, c++ and java (mainly) and all the other below languages and tools**
 
 - ⚡ Fun fact **Fortran (1950s) is the oldest commercial programming language**
 [![@veerhan's Holopin board](https://holopin.me/veerhan)](https://holopin.io/@veerhan)
